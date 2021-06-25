@@ -49,3 +49,11 @@ Prediction using Decision Tree Algorithm
 Create the Decision Tree classifier and visualize it graphically.
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly
 Dataset : https://bit.ly/3kXTdox
+
+
+Task #8
+Timeline Analysis : Covid-19
+
+Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
+Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts
+Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
